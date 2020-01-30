@@ -1,0 +1,3 @@
+mv src/server.c src/server.c. 2> /dev/null
+mv src/client.c. src/client.c 2> /dev/null
+make TARGET_EXEC=client client
