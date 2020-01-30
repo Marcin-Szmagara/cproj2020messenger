@@ -3,6 +3,7 @@ Allows to send text messages between two application instantions (server and cli
 ## Building
 Compile src folder with ```-lncurses```.
 ```server.c``` and ```client.c``` both contain main().
+You can use provided ```Makefile``` as well as ```makes``` and ```makec``` scripts.
 Alternatively use provided exectuables (linux amd64).
 ## Usage
 Run server. Run server with IPV4 address and host number (from server log).
