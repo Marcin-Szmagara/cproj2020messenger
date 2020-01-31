@@ -6,7 +6,7 @@ Compile src folder with ```-lncurses```.
 You can use provided ```Makefile``` as well as ```makes``` and ```makec``` scripts.
 Alternatively use provided exectuables (linux amd64).
 ## Usage
-Run server. Run server with IPV4 address and host number (from server log).
+Run server. Run client with IPV4 address of the server and host number (from server log).
 ### Example
 On one machine:
 ```
