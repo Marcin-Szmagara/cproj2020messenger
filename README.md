@@ -14,5 +14,5 @@ On one machine:
 ```
 Then on another:
 ```
-./client 127.0.0.1 27094
+./client 186.32.11.2 27094
 ```
